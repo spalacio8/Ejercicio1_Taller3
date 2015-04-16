@@ -1,6 +1,6 @@
-package exercise;
-
 import java.io.*;
+
+//Merged! :3
 
 /**
  *
