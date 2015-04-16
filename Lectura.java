@@ -18,7 +18,7 @@ public class Lectura {
         
         try{
             // Abrimos el archivo
-            FileInputStream fstream = new FileInputStream("texto/ejemplo.txt");
+            FileInputStream fstream = new FileInputStream("ejemplo.txt");
             // Creamos el objeto de entrada
             DataInputStream entrada = new DataInputStream(fstream);
             // Creamos el Buffer de Lectura
